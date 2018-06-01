@@ -88,7 +88,7 @@ footer:
     version: false
   # -------------------------------------------------------------
   # Any custom text can be defined here.
-  custom_text: 备案号：<a target="_blank" rel="copyright" href="https://pages.coding.me"><b>蜀ICP备18015721号-1</b></a>
+  custom_text: 备案号：<a target="_blank" rel="copyright" href="http://www.miitbeian.gov.cn"><b>蜀ICP备18015721号-1</b></a>
 
 # ---------------------------------------------------------------
 # SEO Settings
